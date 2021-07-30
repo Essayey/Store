@@ -7,7 +7,7 @@ namespace Store.Memory
     {
         private readonly Book[] books = new[]
         {
-            new Book(1, "Art Of Prigramming"),
+            new Book(1, "Art Of Programming"),
             new Book(2, "Refactoring"),
             new Book(3, "C Programming Language"),
         };
